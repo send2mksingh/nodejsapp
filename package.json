@@ -2,3 +2,7 @@
   "start": "node index.js"
 }
 
+"scripts": {
+  "test": "mocha"
+}
+
